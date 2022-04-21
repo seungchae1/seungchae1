@@ -8,6 +8,8 @@
 </a>
 <img scr="https://user-images.githubusercontent.com/80873640/164344599-90acb826-aa40-421a-bf4c-0a6747829608.gif">
 
+![study](https://user-images.githubusercontent.com/80873640/164344994-c60107f6-09a6-4b94-b174-9c17a6f58895.gif)
+
 <div align="center">
 <h2>🔨tech🔨</h2>
   
