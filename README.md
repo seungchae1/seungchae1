@@ -6,8 +6,7 @@
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seungchae1&theme=buefy" width=49.2% />
 </a>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=seungchae1&bg_color=fff&color=a5f&line=a5f&point=000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img scr="https://user-images.githubusercontent.com/80873640/164344599-90acb826-aa40-421a-bf4c-0a6747829608.gif">
 
 <div align="center">
 <h2>🔨tech🔨</h2>
