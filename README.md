@@ -7,9 +7,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seungchae1&theme=buefy" width=49.2% />
 </a>
 <img scr="https://user-images.githubusercontent.com/80873640/164344599-90acb826-aa40-421a-bf4c-0a6747829608.gif">
+
 <p align="center">
-![study](https://user-images.githubusercontent.com/80873640/164344994-c60107f6-09a6-4b94-b174-9c17a6f58895.gif)
-</p>
+ <img src="https://user-images.githubusercontent.com/80873640/164345573-0cb7d5cc-f54c-4356-b646-ca1f78a3ead5.gif"> 
+ </p>
+ 
 <div align="center">
 <h2>🔨tech🔨</h2>
   
