@@ -28,5 +28,5 @@
 
 <h2>sns</h2>
 
-<a href="https://www.instagram.com/ppss1030/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ppss1030/"/></a>
+<a href="https://www.instagram.com/prk_0103/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ppss1030/"/></a>
 </div>
