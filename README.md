@@ -3,9 +3,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=seungchae1&show_icons=true&theme=buefy" width=49.2% />
 </a>
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seungchae1&theme=buefy" width=49.2% />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungchae1&layout=compact&theme=dracula">
 <img scr="https://user-images.githubusercontent.com/80873640/164344599-90acb826-aa40-421a-bf4c-0a6747829608.gif">
 
 <p align="center">
